@@ -1,0 +1,1049 @@
+INFO  time: initialize in 0.18s
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/time.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/time.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Simulation.scala
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Simulation.scala
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Simulation.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Simulation.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Simulation.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Distributions.scala
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Distributions.scala
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Distributions.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Distributions.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+something's wrong: no file:///Users/parks6/GitProjects/Elevator/Elevator1.scala in Array[<error>]RangePosition(file:///Users/parks6/GitProjects/Elevator/Elevator1.scala, 231, 231, 246)
+something's wrong: no file:///Users/parks6/GitProjects/Elevator/Elevator1.scala in Array[<error>]RangePosition(file:///Users/parks6/GitProjects/Elevator/Elevator1.scala, 231, 231, 239)
+something's wrong: no file:///Users/parks6/GitProjects/Elevator/Elevator1.scala in Array[String]RangePosition(file:///Users/parks6/GitProjects/Elevator/Elevator1.scala, 231, 231, 244)
+something's wrong: no file:///Users/parks6/GitProjects/Elevator/Elevator1.scala in Array[String]RangePosition(file:///Users/parks6/GitProjects/Elevator/Elevator1.scala, 231, 231, 244)
+something's wrong: no file:///Users/parks6/GitProjects/Elevator/Elevator1.scala in Array[String]RangePosition(file:///Users/parks6/GitProjects/Elevator/Elevator1.scala, 231, 231, 244)
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+something's wrong: no file:///Users/parks6/GitProjects/Elevator/Elevator1.scala in Array[String]RangePosition(file:///Users/parks6/GitProjects/Elevator/Elevator1.scala, 231, 231, 244)
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+something's wrong: no file:///Users/parks6/GitProjects/Elevator/Elevator1.scala in Array[String]RangePosition(file:///Users/parks6/GitProjects/Elevator/Elevator1.scala, 1369, 1369, 1382)
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+Jun 30, 2022 3:25:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+java.lang.NullPointerException: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+Jun 30, 2022 4:05:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 1009, count -1, length 1898
+java.lang.StringIndexOutOfBoundsException: offset 1009, count -1, length 1898
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3736)
+	at java.base/java.lang.String.rangeCheck(String.java:297)
+	at java.base/java.lang.String.<init>(String.java:293)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:359)
+	at scala.Option.map(Option.scala:163)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:358)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+Jun 30, 2022 11:58:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 2527, count -80, length 2885
+java.lang.StringIndexOutOfBoundsException: offset 2527, count -80, length 2885
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3736)
+	at java.base/java.lang.String.rangeCheck(String.java:297)
+	at java.base/java.lang.String.<init>(String.java:293)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:359)
+	at scala.Option.map(Option.scala:163)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:358)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5(SignatureHelpProvider.scala:325)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5$adapted(SignatureHelpProvider.scala:312)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:792)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:791)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3(SignatureHelpProvider.scala:312)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3$adapted(SignatureHelpProvider.scala:311)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:792)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:791)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:311)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:265)
+	at scala.reflect.internal.Trees.$anonfun$itraverse$3(Trees.scala:1365)
+	at scala.reflect.api.Trees$Traverser.atOwner(Trees.scala:2515)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1365)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1236)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:27)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:27)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2483)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:329)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5(SignatureHelpProvider.scala:325)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5$adapted(SignatureHelpProvider.scala:312)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:792)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:791)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3(SignatureHelpProvider.scala:312)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3$adapted(SignatureHelpProvider.scala:311)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:792)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:791)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:311)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/time.scala
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+Jul 01, 2022 8:44:55 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 2088, count -1, length 3102
+java.lang.StringIndexOutOfBoundsException: offset 2088, count -1, length 3102
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3736)
+	at java.base/java.lang.String.rangeCheck(String.java:297)
+	at java.base/java.lang.String.<init>(String.java:293)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:359)
+	at scala.Option.map(Option.scala:163)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:358)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+java.lang.NullPointerException: Cannot invoke "scala.reflect.internal.Phase.id()" because "phase" is null
+	at scala.tools.nsc.Global.isPast(Global.scala:1007)
+	at scala.tools.nsc.Global.isPastTyper(Global.scala:1003)
+	at scala.reflect.internal.Symbols$ClassSymbol.addChild(Symbols.scala:3416)
+	at scala.reflect.internal.pickling.UnPickler$Scan.readChildren(UnPickler.scala:457)
+	at scala.reflect.internal.pickling.UnPickler$Scan.$anonfun$run$3(UnPickler.scala:110)
+	at scala.reflect.internal.pickling.UnPickler$Scan.run(UnPickler.scala:90)
+	at scala.reflect.internal.pickling.UnPickler.unpickle(UnPickler.scala:47)
+	at scala.tools.nsc.symtab.classfile.ClassfileParser.parseAttribute$1(ClassfileParser.scala:894)
+	at scala.tools.nsc.symtab.classfile.ClassfileParser.$anonfun$parseAttributes$20(ClassfileParser.scala:1119)
+	at scala.tools.nsc.symtab.classfile.ClassfileParser.parseAttributes(ClassfileParser.scala:1119)
+	at scala.tools.nsc.symtab.classfile.ClassfileParser.parseClass(ClassfileParser.scala:525)
+	at scala.tools.nsc.symtab.classfile.ClassfileParser.$anonfun$parse$1(ClassfileParser.scala:162)
+	at scala.tools.nsc.symtab.classfile.ClassfileParser.parse(ClassfileParser.scala:133)
+	at scala.tools.nsc.symtab.SymbolLoaders$ClassfileLoader.doComplete(SymbolLoaders.scala:332)
+	at scala.tools.nsc.symtab.SymbolLoaders$SymbolLoader.complete(SymbolLoaders.scala:231)
+	at scala.reflect.internal.Symbols$Symbol.info(Symbols.scala:1542)
+	at scala.reflect.internal.Symbols$Symbol.tpeHK(Symbols.scala:1477)
+	at scala.reflect.internal.Types$Type.computeMemberType(Types.scala:733)
+	at scala.reflect.internal.Types$Type.memberType(Types.scala:730)
+	at scala.reflect.internal.Types.defineUnderlyingOfSingleType(Types.scala:1278)
+	at scala.reflect.internal.Types.defineUnderlyingOfSingleType$(Types.scala:1272)
+	at scala.reflect.internal.SymbolTable.defineUnderlyingOfSingleType(SymbolTable.scala:27)
+	at scala.reflect.internal.Types$SingleType.underlying(Types.scala:1232)
+	at scala.reflect.internal.Types$SimpleTypeProxy.typeSymbol(Types.scala:161)
+	at scala.reflect.internal.Types$SimpleTypeProxy.typeSymbol$(Types.scala:161)
+	at scala.reflect.internal.Types$SingletonType.typeSymbol(Types.scala:1099)
+	at scala.meta.internal.pc.CompletionProvider.isFunction(CompletionProvider.scala:304)
+	at scala.meta.internal.pc.CompletionProvider.completionItemKind(CompletionProvider.scala:311)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:198)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:459)
+	at scala.collection.Iterator.toStream(Iterator.scala:1415)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1414)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1429)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1415)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1171)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1161)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:125)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:243)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:412)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at com.google.gson.Gson.toJson(Gson.java:648)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2143)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Jul 01, 2022 10:57:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+java.lang.NullPointerException: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+something's wrong: no file:///Users/parks6/GitProjects/Elevator/Elevator1.scala in scala.collection.mutable.ListBuffer[<error>]RangePosition(file:///Users/parks6/GitProjects/Elevator/Elevator1.scala, 139, 164, 184)
+something's wrong: no file:///Users/parks6/GitProjects/Elevator/Elevator1.scala in scala.collection.mutable.ListBuffer[Elevator1.this.Person]RangePosition(file:///Users/parks6/GitProjects/Elevator/Elevator1.scala, 139, 164, 182)
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+Jul 01, 2022 4:46:49 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Cannot invoke "scala.reflect.internal.Symbols$Symbol.isConstructor()" because the return value of "scala.reflect.internal.Trees$Tree.symbol()" is null
+java.lang.NullPointerException: Cannot invoke "scala.reflect.internal.Symbols$Symbol.isConstructor()" because the return value of "scala.reflect.internal.Trees$Tree.symbol()" is null
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+something's wrong: no file:///Users/parks6/GitProjects/Elevator/Simulation.scala in () => UnitRangePosition(file:///Users/parks6/GitProjects/Elevator/Simulation.scala, 89, 92, 99)
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Simulation.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Distributions.scala
+Jul 01, 2022 4:50:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///Users/parks6/GitProjects/Elevator/Distributions.scala",
+        "type": 3
+      }
+    ]
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.NoSuchFileException: /Users/parks6/GitProjects/Elevator/Distributions.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:375)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:426)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3272)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1(MetalsLanguageServer.scala:725)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1$adapted(MetalsLanguageServer.scala:724)
+	at scala.collection.immutable.Stream.foreach(Stream.scala:533)
+	at scala.meta.internal.metals.MetalsLanguageServer.onChange(MetalsLanguageServer.scala:724)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChangeWatchedFiles(MetalsLanguageServer.scala:689)
+	... 15 more
+
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/parks6/GitProjects/Elevator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/parks6/GitProjects/Elevator/Elevator1.scala
+WARN  no build target: 
