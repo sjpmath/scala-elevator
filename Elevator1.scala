@@ -37,19 +37,40 @@ class Elevator1 extends Simulation {
 
     def runElevator(f:Int):Unit = {
       log(s"Elevator is at floor $f")
+
+
+      var move = false
+
+      var f1 = f; var d = direction; var f2 = f
+      if (f==1) d = 1
+      if (f==numFloors) d = -1
+      //check if any commands in that direction
+      while (f1 >=1 && f1 <= numFloors && clickedFloors(f1).isEmpty && waitingFloors(f1).isEmpty) f1 += d
+      while (f2 >=1 && f2 <= numFloors && clickedFloors(f2).isEmpty && waitingFloors(f2).isEmpty) f2 -= d
+
+      // there exist commands and at end
+      if ((f==1 || f==numFloors) && (f1>=1 && f1 <= numFloors)) {direction *= -1; move = true}
+      else if (f1>=1 && f1 <= numFloors) move = true
+
+      // not at end and no commands in direction, exist commands in other direction
+      else if (f2>=1 && f2 <=numFloors) {direction *= -1; move = true}
+
+      else {
+        direction = -1; move = true
+      }
+
+      // if at end, move only if there exist commands
+      // else if there are no commands in direction, change direction
+
       if (!clickedFloors(f).isEmpty) exit(this, f) // there are people to exit
       if (!waitingFloors(f).isEmpty) enter(this, f) // there are people to enter
 
-      var f1 = f; var d = direction
-      if (f==1) d = 1
-      if (f==numFloors) d = -1
-      while (f1 >=1 && f1 <= numFloors && clickedFloors(f1)==null && waitingFloors(f1)==null) f1 += d
-      if ((f==1 || f==numFloors) && (f1>=1 || f1 <= numFloors)) direction *= -1
-      else if (f1<1 || f1 > numFloors) direction *= -1
 
-      if ((f+direction) >= 1 && (f+direction) <= numFloors) {
+      if (move && (f+direction) >= 1 && (f+direction) <= numFloors) {
         floor = f+direction
       }
+
+
       after(secs(1)) (runElevator(floor))
 
 
